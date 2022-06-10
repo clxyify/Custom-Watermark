@@ -10,7 +10,7 @@ You can add your own watermark instead of 'Powered By WRD' or 'EasyExploits' or 
 
 If the API has a console window - use `consolewtrmrk.cpp`!
 
-If the API has a UI watermark - use `guiwtrmrk.cpp` and `guiwtrmrk.lua`!
+If the API has a UI watermark - use `guiwtrmrk.cs` and `guiwtrmrk.lua`!
 
 # Warnings!
 
