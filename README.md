@@ -1,4 +1,4 @@
-# Custom-Watermark
+# Custom-Watermark!
 
 **Do you fucking hate API Watermarks? Do they annoy the shit out of you?** **Don't hesitate!**
 
@@ -12,4 +12,12 @@ If the API has a console window - use `consolewtrmrk.cpp`!
 
 If the API has a UI watermark - use `guiwtrmrk.cpp` and `guiwtrmrk.lua`!
 
-If your API has none of these im sorry to say **skid failure.**
+# Warnings!
+
+Do not claim this is yours to prevent blacklist's from the API.
+
+This does not affliate with any API developers or owners. Not official.
+
+This was not made by the original devs, more like the flipped team of APIs.
+
+This does not delete the APIs watermark as that is tragically not possible.
